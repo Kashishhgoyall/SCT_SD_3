@@ -29,10 +29,10 @@ The program solves the puzzle automatically and displays the solved board in a *
 ## 🖥️ Screenshots
 
 ### Input Board
-![Input Board](screenshots/Console.png)
+![Input Board](Result/Console.png)
 
 ### Solved Board
-![Solved Board](screenshots/ConsoleOutput.png)
+![Solved Board](Result/ConsoleOutput.png)
 
 
 ---
@@ -48,20 +48,32 @@ java SudokuSolver
 ---
 
 ## 📂 Project Structure
+
 SCT_SD_3/
+
 │-- SudokuSolver.java          # Main console solver
+
 │-- Result/               # Screenshots of input/output
+
 │    │-- Console.png
+
 │    │-- ConsoleOutput.png
+
 │-- README.md                  # Project documentation
 
 ---
 
 ## 🌱 Skills Practiced
+
 ✅ Java programming fundamentals (2D arrays, loops, recursion)
+
 ✅ Backtracking algorithm implementation
+
 ✅ Input validation & error handling
+
 ✅ Designing user-driven console applications
+
 ✅ Console output formatting (professional grid style)
+
 ✅ Git & GitHub version control
 
