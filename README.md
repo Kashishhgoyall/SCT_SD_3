@@ -51,15 +51,14 @@ java SudokuSolver
 
 SCT_SD_3/
 
-│-- SudokuSolver.java          # Main console solver
+│-- SudokuSolver.java                        # Main console solver
 
-│-- Result/               # Screenshots of input/output
+│-- Result/                                  # Screenshots of input/output
 
 │    │-- Console.png
 
 │    │-- ConsoleOutput.png
 
-│-- README.md                  # Project documentation
 
 ---
 
